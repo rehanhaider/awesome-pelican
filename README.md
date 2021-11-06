@@ -43,7 +43,7 @@ Pelican’s feature highlights include:
 ## Plugins
 
 ### Migrated to new architecture
-\# | Plugin/GitHub | Latest Version  | Author | Description
+\# | Plugin/GitHub | PyPI Version | Author | Description
 ---- | ---- | ---- | ---- | ----
 1 | [image-process](https://github.com/pelican-plugins/image-process) | [![PyPI Version](https://img.shields.io/pypi/v/pelican-image-process)](https://pypi.org/project/pelican-image-process/) | [pelican-plugins](https://github.com/pelican-plugins) | Pelican plugin that automates image processing 
 2 | [seo](https://github.com/pelican-plugins/seo) | [![PyPI Version](https://img.shields.io/pypi/v/pelican-seo)](https://pypi.org/project/pelican-seo/) | [pelican-plugins](https://github.com/pelican-plugins) | Pelican plugin to improve search engine optimization (SEO) 
@@ -84,6 +84,13 @@ x | [github name](https://github.com/<link>) | [![PyPI Version](https://img.shie
 
 ## Themes
 
+Official [Pelican Theme Repository](https://github.com/getpelican/pelican-themes)
+
+\# | Theme/GitHub | PyPI Version  | Author | Demo
+---- | ---- | ---- | ---- | ----
+1 | [Flex](https://github.com/alexandrevicenzi/Flex/) | NA | [Alexandr Vicenzi](https://github.com/alexandrevicenzi) | [flex.alxd.me](https://flex.alxd.me/)
+2 | [Elegant](https://github.com/Pelican-Elegant/elegant) | NA | [Pelican Elegant](https://github.com/Pelican-Elegant) | [elegant.oncrashreboot.com/](https://elegant.oncrashreboot.com)
+3 | [Seafoam](https://github.com/MinchinWeb/seafoam) | [![PyPI Version](https://img.shields.io/pypi/v/seafoam)](https://pypi.org/project/seafoam) | [MinchinWeb](https://github.com/MinchinWeb) | [minchin.ca](http://minchin.ca/)
 
 ## Projects using Pelican
 
