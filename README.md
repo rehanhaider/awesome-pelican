@@ -38,7 +38,7 @@ Pelican’s feature highlights include:
 ## Plugins
 
 ### Migrated to new architecture
-# | Plugin | Author | Description
+\# | Plugin | Author | Description
 ---- | ---- | ---- | ---- 
 1 | [image-process](https://github.com/pelican-plugins/image-process) | [pelican-plugins](https://github.com/pelican-plugins) |  Pelican plugin that automates image processing 
 2 | [seo](https://github.com/pelican-plugins/seo) | [pelican-plugins](https://github.com/pelican-plugins) |  Pelican plugin to improve search engine optimization (SEO) 
