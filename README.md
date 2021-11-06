@@ -52,12 +52,13 @@ Pelican’s feature highlights include:
 5 | [tag-cloud](https://github.com/pelican-plugins/tag-cloud) | [![PyPI Version](https://img.shields.io/pypi/v/pelican-tag-cloud)](https://pypi.org/project/pelican-tag-cloud/) | [pelican-plugins](https://github.com/pelican-plugins) | Pelican plugin that generates a tag cloud from post tags 
 6 | [similar-posts](https://github.com/pelican-plugins/similar-posts) | [![PyPI Version](https://img.shields.io/pypi/v/pelican-similar-posts)](https://pypi.org/project/pelican-similar-posts/) | [pelican-plugins](https://github.com/pelican-plugins) | Pelican plugin to list similar posts to articles, based on a vector space model
 7 | [series](https://github.com/pelican-plugins/series) | [![PyPI Version](https://img.shields.io/pypi/v/pelican-series)](https://pypi.org/project/pelican-series/) | [pelican-plugins](https://github.com/pelican-plugins) | Series is a Pelican plugin that joins multiple posts into a series 
-| [![PyPI Version](https://img.shields.io/pypi/v/)](https://pypi.org/project//)
 
 
 
 
 <!--
+| [![PyPI Version](https://img.shields.io/pypi/v/)](https://pypi.org/project//)
+
 8 | [webassets](https://github.com/pelican-plugins/webassets) | [pelican-plugins](https://github.com/pelican-plugins) | [pelican-webassets](https://pypi.org/project/pelican-webassets/) | Use the webassets module to manage assets such as CSS and JS files 
 9 | [avatar](https://github.com/pelican-plugins/avatar) | [pelican-plugins](https://github.com/pelican-plugins) | [pelican-avatar](https://pypi.org/project/pelican-avatar/) | Pelican plugin that adds Libravatar or Gravatar user profile pictures
 23 | [share-post](https://github.com/pelican-plugins/share-post) | [pelican-plugins](https://github.com/pelican-plugins) | [![PyPI Version](https://img.shields.io/pypi/v/pelican-share-post)](https://pypi.org/project/pelican-share-post/)| Pelican plugin that creates privacy-friendly URLs for sharing the current article 
