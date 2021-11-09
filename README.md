@@ -94,6 +94,8 @@ Official [Pelican Theme Repository](https://github.com/getpelican/pelican-themes
 
 ## Projects using Pelican
 
+1. [Full Stack Python](https://www.fullstackpython.com/): [(GitHub repo)](https://github.com/mattmakai/fullstackpython.com)
+2. [CloudBytes/Dev>](https://cloudbytes.dev): [(GitHub repo)](https://github.com/CloudBytesDotDev/CloudBytes.dev)
 
 ## Articles & Guides
 
