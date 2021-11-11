@@ -78,24 +78,33 @@ Pelican’s feature highlights include:
 32 | [show-source](https://github.com/pelican-plugins/show-source) | [![PyPI Version](https://img.shields.io/pypi/v/pelican-show-source)](https://pypi.org/project/pelican-show-source) | [pelican-plugins](https://github.com/pelican-plugins) |  Link to the source text of your posts 
 
 <!--
-User the below template
+Use the below template
 x | [github name](https://github.com/<link>) | [![PyPI Version](https://img.shields.io/pypi/v/<plugin-name>)](https://pypi.org/project/<plugin-name>) | [pelican-plugins](https://github.com/<author>) |  Desription
 -->
 
 ## Themes
 
-Official [Pelican Theme Repository](https://github.com/getpelican/pelican-themes)
+* Official [Pelican Theme Repository](https://github.com/getpelican/pelican-themes)
+* [Pelican Theme Gallery](http://www.pelicanthemes.com/)
 
+### **Open Source Pelican Themes**
 \# | Theme/GitHub | PyPI Version  | Author | Demo
 ---- | ---- | ---- | ---- | ----
 1 | [Flex](https://github.com/alexandrevicenzi/Flex/) | NA | [Alexandr Vicenzi](https://github.com/alexandrevicenzi) | [flex.alxd.me](https://flex.alxd.me/)
 2 | [Elegant](https://github.com/Pelican-Elegant/elegant) | NA | [Pelican Elegant](https://github.com/Pelican-Elegant) | [elegant.oncrashreboot.com/](https://elegant.oncrashreboot.com)
 3 | [Seafoam](https://github.com/MinchinWeb/seafoam) | [![PyPI Version](https://img.shields.io/pypi/v/seafoam)](https://pypi.org/project/seafoam) | [MinchinWeb](https://github.com/MinchinWeb) | [minchin.ca](http://minchin.ca/)
+4 | [Atilla](https://github.com/zutrinken/attila) | NA | [Zutrinken](https://github.com/zutrinken) | [https://attila.peteramende.de](https://attila.peteramende.de/)
+4 | [Cerulean](
 
-## Projects using Pelican
+## Powered By Pelican
 
-1. [Full Stack Python](https://www.fullstackpython.com/): [(GitHub repo)](https://github.com/mattmakai/fullstackpython.com)
-2. [CloudBytes/Dev>](https://cloudbytes.dev): [(GitHub repo)](https://github.com/CloudBytesDotDev/CloudBytes.dev)
+Projects built with pelican
+
+1. [Apache.org](https://apache.org/)
+2. [Full Stack Python](https://www.fullstackpython.com/): [(GitHub repo)](https://github.com/mattmakai/fullstackpython.com)
+3. [CloudBytes/Dev>](https://cloudbytes.dev): [(GitHub repo)](https://github.com/CloudBytesDotDev/CloudBytes.dev)
+4. [Bottlepy](http://blog.bottlepy.org/) : [(GitHub repo)](https://github.com/bottlepy/bottle)
+5. [Easylist.to](https://easylist.to/)
 
 ## Articles & Guides
 
