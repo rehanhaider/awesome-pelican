@@ -107,7 +107,7 @@ Projects built with pelican
 4. [This Week in Rust](http://this-week-in-rust.org/) : [(GitHub repo)](https://github.com/rust-lang/this-week-in-rust)
 5. [Bottlepy](http://blog.bottlepy.org/) : [(GitHub repo)](https://github.com/bottlepy/bottle)
 6. [Easylist.to](https://easylist.to/)
-7. [Python Brasil Wiki[(https://github.com/pythonbrasil/wiki) : [(GitHub repo)](https://github.com/pythonbrasil/wiki)
+7. [Python Brasil Wiki](https://github.com/pythonbrasil/wiki) : [(GitHub repo)](https://github.com/pythonbrasil/wiki)
 8. [m.css](https://mcss.mosra.cz/) | [(GitHub Repo)](https://github.com/mosra/m.css)
 
 ## Articles & Guides
