@@ -100,12 +100,13 @@ x | [github name](https://github.com/<link>) | [![PyPI Version](https://img.shie
 
 Projects built with pelican
 
-1. [Apache.org](https://apache.org/)
-2. [Full Stack Python](https://www.fullstackpython.com/): [(GitHub repo)](https://github.com/mattmakai/fullstackpython.com)
-3. [CloudBytes/Dev>](https://cloudbytes.dev): [(GitHub repo)](https://github.com/CloudBytesDotDev/CloudBytes.dev)
-4. [Bottlepy](http://blog.bottlepy.org/) : [(GitHub repo)](https://github.com/bottlepy/bottle)
-5. [This Week in Rust](http://this-week-in-rust.org/) : [(GitHub repo)](https://github.com/rust-lang/this-week-in-rust)
-5. [Easylist.to](https://easylist.to/)
+
+1. [Full Stack Python](https://www.fullstackpython.com/): [(GitHub repo)](https://github.com/mattmakai/fullstackpython.com)
+2. [CloudBytes/Dev>](https://cloudbytes.dev): [(GitHub repo)](https://github.com/CloudBytesDotDev/CloudBytes.dev)
+3. [Apache.org](https://apache.org/)
+4. [This Week in Rust](http://this-week-in-rust.org/) : [(GitHub repo)](https://github.com/rust-lang/this-week-in-rust)
+5. [Bottlepy](http://blog.bottlepy.org/) : [(GitHub repo)](https://github.com/bottlepy/bottle)
+6. [Easylist.to](https://easylist.to/)
 
 ## Articles & Guides
 
