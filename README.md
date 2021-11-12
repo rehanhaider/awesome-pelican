@@ -94,7 +94,7 @@ x | [github name](https://github.com/<link>) | [![PyPI Version](https://img.shie
 2 | [Elegant](https://github.com/Pelican-Elegant/elegant) | NA | [Pelican Elegant](https://github.com/Pelican-Elegant) | [elegant.oncrashreboot.com/](https://elegant.oncrashreboot.com)
 3 | [Seafoam](https://github.com/MinchinWeb/seafoam) | [![PyPI Version](https://img.shields.io/pypi/v/seafoam)](https://pypi.org/project/seafoam) | [MinchinWeb](https://github.com/MinchinWeb) | [minchin.ca](http://minchin.ca/)
 4 | [Atilla](https://github.com/zutrinken/attila) | NA | [Zutrinken](https://github.com/zutrinken) | [https://attila.peteramende.de](https://attila.peteramende.de/)
-4 | [Cerulean](
+4 | [Octopress](https://github.com/duilio/pelican-octopress-theme) | NA | [Duilio](https://github.com/duilio) | [Demo](http://blogs.skicelab.com/maurizio/)
 
 ## Powered By Pelican
 
